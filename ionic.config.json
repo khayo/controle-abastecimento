@@ -1,0 +1,7 @@
+{
+  "name": "controle-abastecimento",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
