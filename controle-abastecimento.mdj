@@ -274,13 +274,30 @@
 											"height": 13,
 											"text": "+Attribute1",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF2myHvaHrpH0g=",
+											"_parent": {
+												"$ref": "AAAAAAF2lwoPRYZoYXo="
+											},
+											"model": {
+												"$ref": "AAAAAAF2myHvJ3rmNjI="
+											},
+											"font": "Arial;13;0",
+											"left": 653,
+											"top": 334,
+											"width": 100.83251953125,
+											"height": 13,
+											"text": "+ativo",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 648,
 									"top": 209,
 									"width": 110.83251953125,
-									"height": 128
+									"height": 143
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -293,7 +310,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 648,
-									"top": 337,
+									"top": 352,
 									"width": 110.83251953125,
 									"height": 10
 								},
@@ -335,7 +352,7 @@
 							"left": 648,
 							"top": 184,
 							"width": 110.83251953125,
-							"height": 163,
+							"height": 178,
 							"nameCompartment": {
 								"$ref": "AAAAAAF2lwoPRIZjd6Q="
 							},
@@ -931,7 +948,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 683,
-									"top": 390,
+									"top": 397,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -952,7 +969,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 668,
-									"top": 389,
+									"top": 396,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -973,7 +990,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 712,
-									"top": 391,
+									"top": 398,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1057,7 +1074,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 684,
-									"top": 366,
+									"top": 381,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1077,7 +1094,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 670,
-									"top": 368,
+									"top": 383,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1097,7 +1114,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 711,
-									"top": 363,
+									"top": 378,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1142,7 +1159,7 @@
 								"$ref": "AAAAAAF2lwvCYoav5Fw="
 							},
 							"lineStyle": 1,
-							"points": "697:447;700:347",
+							"points": "697:447;700:362",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF2lxElpoc2CTs="
@@ -1476,7 +1493,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 237,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "«enumeration»"
 										},
@@ -1489,7 +1506,7 @@
 											"font": "Arial;13;1",
 											"left": 949,
 											"top": 252,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "TipoCombustivel"
 										},
@@ -1524,7 +1541,7 @@
 									"font": "Arial;13;0",
 									"left": 944,
 									"top": 232,
-									"width": 151.35595703125,
+									"width": 154.193359375,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2lxWaZImeng8="
@@ -1625,7 +1642,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 275,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "GASOLINA",
 											"horizontalAlignment": 0
@@ -1642,7 +1659,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 290,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "ETANOL",
 											"horizontalAlignment": 0
@@ -1677,7 +1694,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 305,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "DIESEL",
 											"horizontalAlignment": 0
@@ -1694,7 +1711,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 320,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "GASOLINA_ADITIVADA",
 											"horizontalAlignment": 0
@@ -1711,7 +1728,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 335,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "GASOLINA_PREMIUM",
 											"horizontalAlignment": 0
@@ -1728,7 +1745,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 350,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "ETANOL_ADITIVADO",
 											"horizontalAlignment": 0
@@ -1745,7 +1762,7 @@
 											"font": "Arial;13;0",
 											"left": 949,
 											"top": 365,
-											"width": 141.35595703125,
+											"width": 144.193359375,
 											"height": 13,
 											"text": "DIESEL_ADITIVADO",
 											"horizontalAlignment": 0
@@ -1754,7 +1771,7 @@
 									"font": "Arial;13;0",
 									"left": 944,
 									"top": 270,
-									"width": 151.35595703125,
+									"width": 154.193359375,
 									"height": 113
 								}
 							],
@@ -1762,7 +1779,7 @@
 							"containerChangeable": true,
 							"left": 944,
 							"top": 232,
-							"width": 151.35595703125,
+							"width": 154.193359375,
 							"height": 166,
 							"nameCompartment": {
 								"$ref": "AAAAAAF2lxWaZImdU+w="
@@ -2097,7 +2114,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwoPQoZgfWA="
 							},
-							"name": "combustivel"
+							"name": "combustivel",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2114,7 +2132,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwoPQoZgfWA="
 							},
-							"name": "tipo"
+							"name": "tipo",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2122,7 +2141,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwoPQoZgfWA="
 							},
-							"name": "placa"
+							"name": "placa",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2130,7 +2150,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwoPQoZgfWA="
 							},
-							"name": "dataCompra"
+							"name": "dataCompra",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2140,6 +2161,14 @@
 							},
 							"name": "Attribute1",
 							"type": ""
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF2myHvJ3rmNjI=",
+							"_parent": {
+								"$ref": "AAAAAAF2lwoPQoZgfWA="
+							},
+							"name": "ativo"
 						}
 					]
 				},
@@ -2196,7 +2225,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwvCYoatGfo="
 							},
-							"name": "tipoCombustivel"
+							"name": "tipoCombustivel",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2204,7 +2234,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwvCYoatGfo="
 							},
-							"name": "valorLitro"
+							"name": "valorLitro",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2212,7 +2243,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwvCYoatGfo="
 							},
-							"name": "valorTotal"
+							"name": "valorTotal",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2220,7 +2252,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwvCYoatGfo="
 							},
-							"name": "tanqueCheio"
+							"name": "tanqueCheio",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2228,7 +2261,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lwvCYoatGfo="
 							},
-							"name": "hodometro"
+							"name": "hodometro",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -2338,7 +2372,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lw/nsob3Bgs="
 							},
-							"name": "nome"
+							"name": "nome",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2346,7 +2381,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF2lw/nsob3Bgs="
 							},
-							"name": "coordenadas"
+							"name": "coordenadas",
+							"type": ""
 						}
 					]
 				},
